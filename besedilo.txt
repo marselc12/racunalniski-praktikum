@@ -1,0 +1,2 @@
+what the helly
+#print(˝Pozdravljen svet˝)
